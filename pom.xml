@@ -59,10 +59,10 @@
     <artifactId>mysql-connector-java</artifactId>
     <version>8.0.28</version>
 </dependency>
-  <dependency>
+ <dependency>
     <groupId>com.aventstack</groupId>
     <artifactId>extentreports</artifactId>
-    <version>5.0.9</version>
+    <version>3.1.5</version>
 </dependency>
   
   </dependencies>

@@ -5,11 +5,9 @@ package com.EducationalDomain.tcs.genericLib;
  *
  */
 public interface AutoConstant {
-	
-	
 	String datapropertyfile="./src/test/resources/data.properties";
-	String excelfilepath="./src/test/resources/excel.xlsx";
+	String excelfilepath="./src/test/resources/Book1.xlsx";
 	String photoPath="./photo/";
-	String reportpath="./reports";
+	String reportpath="./reports/skillarary.html";
 
 }
