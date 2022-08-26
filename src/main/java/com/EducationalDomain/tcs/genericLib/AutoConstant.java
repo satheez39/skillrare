@@ -1,13 +1,13 @@
 package com.EducationalDomain.tcs.genericLib;
-/**
- * It is used to store all constants
- * @author GSK
- *
- */
+
 public interface AutoConstant {
+	/*
+	 * it is used to store all the constants 
+	 */
+	
 	String datapropertyfile="./src/test/resources/data.properties";
-	String excelfilepath="./src/test/resources/Book1.xlsx";
+	String excelfilepath="./src/test/resources/data1.xls";
 	String photoPath="./photo/";
-	String reportpath="./reports/skillarary.html";
+	String reportpath="./reports/skillrarreport.html";
 
 }
